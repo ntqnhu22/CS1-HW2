@@ -1,0 +1,2 @@
+python3 drawflower.py 3 100
+python3 drawflower.py 20 100
